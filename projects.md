@@ -10,5 +10,7 @@ menu:
     weight: 2
   navigation:
     identifier: _projects
+    url: "/projects/"
     weight: 3
 ---
+Efficiently unleash cross-media information without cross-media value. Quickly maximize timely deliverables for real-time schemas. Dramatically maintain clicks-and-mortar.
